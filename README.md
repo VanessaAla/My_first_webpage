@@ -1,0 +1,1 @@
+This is my very first "baby-project". After reading some theory over the basics of HTML/CSS/Javascript, i decided to get my hands "dirty" by building a "vanilla" webpage in order to understand the concepts better.
